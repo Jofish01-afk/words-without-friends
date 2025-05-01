@@ -1,4 +1,6 @@
-Words Without Friends
+Words Without Friends - Fall 2024
+
+UAlbany Computer Science Project for ICSI333 - System Fundamentals
 
 This is a game project I worked on for my System Fundamentals class in my sophmore year of college. It serves as a way to apply the concepts I've learned in a fun way.
 Since this was written in C, there was a fair amount of low-level programming, and web-socket programming. The published version on the repository works in a web browser
